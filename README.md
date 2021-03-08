@@ -19,12 +19,8 @@ Tool fully developed by me. This tool allows you to carry out denial of service 
 # Exemple and proof
 UDP flood with spoofed random source request on 192.168.1.11 :
 <img src="https://cdn.discordapp.com/attachments/351798326129197057/812747185895506019/unknown.png" alt="" />
-
-
 SYN flood with spoofed 1.1.1.1 source request on 192.168.1.11 :
 <img src="https://cdn.discordapp.com/attachments/351798326129197057/812747148180979742/unknown.png" alt=""/>
-
-
 DNS amplification :
 <img src="https://cdn.discordapp.com/attachments/744961641246097508/813415935637585930/unknown.png" alt=""/>
 <img src="https://cdn.discordapp.com/attachments/744961641246097508/813416015878291476/unknown.png" alt=""/>
